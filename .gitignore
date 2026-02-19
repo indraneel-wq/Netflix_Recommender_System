@@ -1,0 +1,6 @@
+__pycache__/
+*.pkl
+combined_data_*.txt
+movie_titles.csv
+ratings.csv
+venv/
